@@ -1,1 +1,3 @@
 # Word-Frequency-in-Paragraph
+
+<b><i>C program that takes a paragraph input from the user, counts the frequency of each word in the paragraph,  and prints the frequencies.</i></b>
